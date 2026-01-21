@@ -14,7 +14,7 @@ Model1 is trained from one section each from a stage 12.5 and a stage 22 _X.laev
 This model 1 is validated for  _X.laevis_ embryos from late gastrula stage 12.5 to tailbud stage 22.<br>
 
 _The default Cellpose2 parameters:_<br>
-size diameter: 164.72<br>  
+size diameter: 164.72<br>
 flow_threshold: 0.4<br>
 cellprob_threshold: 0<br>
 
@@ -27,7 +27,7 @@ Model2 is trained from two sections per stage from Blastula (Stage 9) and Gastru
 This model 2 is valiadted for _X.laevis_ embryos from late blastula stage 9 to gastrula stage 12.<br>
 
 _The default Cellpose2 parameters:_<br>
-size diameter: 267.62<br>  
+size diameter: 267.62<br>
 flow_threshold: 0.95<br>
 cellprob_threshold: 0<br>
 
