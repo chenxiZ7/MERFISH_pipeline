@@ -13,12 +13,12 @@ Our models can also serve as a starting point for your customized CellPose2 mode
 Model1 is trained from one section each from a stage 12.5 and a stage 22 _X.laevis_ embryos with good quality of Cellbound3 staining.<br> 
 This model 1 is validated for  _X.laevis_ embryos from late gastrula stage 12.5 to tailbud stage 22.<br>
 
-***The default Cellpose2 parameters:***<br>
+_The default Cellpose2 parameters:_<br>
 size diameter: 164.72<br>  
 flow_threshold: 0.4<br>
 cellprob_threshold: 0<br>
 
-Parameter in VPT: --tile-overlap 700<br>
+_Parameter in VPT_: --tile-overlap 700<br>
 
 
 **Model2_CP_20250711_153352_SD**
@@ -26,10 +26,10 @@ Parameter in VPT: --tile-overlap 700<br>
 Model2 is trained from two sections per stage from Blastula (Stage 9) and Gastrula (Stages 10.5, 11 and 12) _X.laevis_ embryos with weak Cellbound3 staining.<br>
 This model 2 is valiadted for _X.laevis_ embryos from late blastula stage 9 to gastrula stage 12.<br>
 
-***The default Cellpose2 parameters:***<br>
+_The default Cellpose2 parameters:_<br>
 size diameter: 267.62<br>  
 flow_threshold: 0.95<br>
 cellprob_threshold: 0<br>
 
-Parameter in VPT: --tile-overlap 200
+_Parameter in VPT_: --tile-overlap 200
 
