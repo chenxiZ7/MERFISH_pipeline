@@ -18,7 +18,7 @@ size diameter: 164.72<br>
 flow_threshold: 0.4<br>
 cellprob_threshold: 0<br>
 
-_Parameter in VPT_: --tile-overlap 700<br>
+_Parameter in VPT_: --tile-overlap 200<br>
 
 
 **Model2_CP_20250711_153352_SD**
@@ -31,5 +31,5 @@ size diameter: 267.62<br>
 flow_threshold: 0.95<br>
 cellprob_threshold: 0<br>
 
-_Parameter in VPT_: --tile-overlap 200
+_Parameter in VPT_: --tile-overlap 700
 
