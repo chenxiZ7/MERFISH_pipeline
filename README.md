@@ -9,7 +9,7 @@ The full process from sample preparation to data analysis for MERSCOPE is descri
 
 <img src="images/pipeline.png" alt="drawing" width="80%"/>
 
-Citation: 
+Citation: <br>
 An optimized workflow for spatial transcriptomics across early development in Xenopus<br>
 Chenxi Zhou, Shubhamay Das, Thomas Defard, Kyra J. E. Borgman, Subham Seal, Vincent Kappès, Thomas Walter, Iva Simeonova, Geneviève Almouzni, Anne H. Monsoro-Burq<br>
 bioRxiv 2026.05.07.723548; doi: https://doi.org/10.64898/2026.05.07.723548
