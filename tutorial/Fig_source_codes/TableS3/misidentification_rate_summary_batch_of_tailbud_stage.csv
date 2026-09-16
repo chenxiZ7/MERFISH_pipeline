@@ -1,0 +1,7 @@
+metric,value
+n_blank_probes,23.0
+n_gene_probes,157.0
+mean_count_per_blank_probe,5437.652173913043
+mean_count_per_gene_probe,115038.54777070064
+gross_misidentification_rate,0.053820028623170035
+gene_only_misidentification_rate,0.04726808777829485
